@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichiS06
 - 👀 I’m interested in RPA
-- 🌱 I’m currently learning UiPath and VS.NET
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to work with UiPath
+- I´m studying business computer science
 - 📫 How to reach me 
 
 <!---
